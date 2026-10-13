@@ -1,0 +1,21 @@
+EconoCausal-Dynamic-pricing-DML/
+│
+├── data/                 # Local dataset; GitHub par upload nahi
+├── notebooks/
+│   └── 01_eda.ipynb
+├── src/
+│   ├── load_data.py
+│   ├── clean_data.py
+│   ├── features.py
+│   ├── baseline_model.py
+│   ├── dml_model.py
+│   └── evaluation.py
+├── results/              # Graphs, tables, model results
+├── tests/                # Basic tests
+├── docs/
+│   └── dml_methodology.md
+├── report/
+├── presentation/
+├── requirements.txt
+├── .gitignore
+└── README.md
