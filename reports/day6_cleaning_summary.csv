@@ -1,0 +1,9 @@
+Metric,Value
+Original rows,541909
+Exact duplicate rows removed,5268
+Rows after duplicate removal,536641
+Remaining exact duplicates,0
+Missing Description values,1454
+Missing CustomerID values,135037
+Zero-price records,2510
+Negative-quantity records,10587
