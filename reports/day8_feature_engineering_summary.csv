@@ -1,0 +1,10 @@
+Metric,Value
+Rows after duplicate removal,536641.0
+Columns after feature engineering,14.0
+Missing dates,0.0
+Non-positive quantity records,10587.0
+Non-positive price records,2512.0
+Mean line value,18.123861117581395
+Median line value,9.870000000000001
+Minimum line value,-168469.6
+Maximum line value,168469.6
