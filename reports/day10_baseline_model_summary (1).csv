@@ -1,0 +1,7 @@
+Metric,Value
+Rows used,524878.0
+Number of features,4.0
+Training rows,419902.0
+Testing rows,104976.0
+Baseline MAE,10.846158455099724
+Baseline R2,0.004233175465071959
