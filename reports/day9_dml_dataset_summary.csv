@@ -1,0 +1,8 @@
+Metric,Value
+Rows before filtering,536641
+Rows after filtering,524878
+Treatment variable,UnitPrice
+Outcome variable,Quantity
+Number of covariates,3
+Missing treatment values,0
+Missing outcome values,0
