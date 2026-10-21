@@ -1,0 +1,7 @@
+Metric,Value
+Sample size,50000
+Treatment,UnitPrice
+Outcome,Quantity
+Control features,"Month, Hour, DayOfWeek"
+DML prototype coefficient,-0.00931873105230614
+Treatment residual standard deviation,48.85259986424272
