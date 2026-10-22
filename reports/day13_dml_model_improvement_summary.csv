@@ -1,0 +1,8 @@
+Metric,Value
+Sample size,30000
+Unique products,3050
+Treatment variable,UnitPrice
+Outcome variable,Quantity
+Control variables,"StockCode, Month, Hour, DayOfWeek"
+Preliminary DML coefficient,-0.003386949766571761
+Residual price variation,2621.5933315617644
