@@ -1,0 +1,3 @@
+Specification,SampleSize,Controls,PreliminaryCoefficient,ResidualPriceVariation
+Time controls only,20000,"Month, Hour, DayOfWeek",-0.005835685716439521,3944.1127199430607
+Product and time controls,20000,"StockCode, Month, Hour, DayOfWeek",-0.002904714717195908,3877.818258054125
