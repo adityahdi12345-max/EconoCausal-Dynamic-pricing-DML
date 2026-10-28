@@ -1,0 +1,6 @@
+Item,Details
+Treatment,UnitPrice
+Outcome,Quantity
+Selected Model,Product and time controls
+Controls,"StockCode, Month, Hour, DayOfWeek"
+Preliminary Coefficient,-0.002905
