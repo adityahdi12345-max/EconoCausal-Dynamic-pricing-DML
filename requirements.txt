@@ -1,21 +1,10 @@
-# Data handling
+streamlit
+fastapi
+uvicorn[standard]
 pandas
 numpy
-openpyxl
-
-# Data visualization
+scikit-learn
 matplotlib
 seaborn
-
-# Machine learning
-scikit-learn
-scipy
-
-# Causal inference and Double Machine Learning
-doubleml
-
-# Statistical analysis
-statsmodels
-
-# Interactive analysis
-jupyter
+openpyxl
+pydantic
